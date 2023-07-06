@@ -7,7 +7,7 @@ The project is divided into 3 parts:
 COVID-19 spreading (investigate the effects of restrictions
 and health advice on the outbreak).
 - Calculate the reproductive ratio Rt and compare it with
-the real data
+the real data.
 - Use the statistical method (ARIMA), we predict the
 spread of COVID-19 in Italy’s regions.
 
